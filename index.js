@@ -69,7 +69,7 @@
 // let result = [];
 // for (let i = 0; i < objects.length; i++){
 //     if (objects[i].relation){
-//         objects[i].relation.relationId = objects[objects[i].relation.relationId];
+//         objects[i].relation.relationId = objects[objects[i].relation.relationId - 1];
 //         result.push(objects[i]);
 //     }
 // }
